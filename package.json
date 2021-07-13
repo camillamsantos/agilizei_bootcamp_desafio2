@@ -4,8 +4,8 @@
     "faker": "^5.5.3",
     "mocha": "^9.0.2"
   },
-  "name": "rwc-cypress",
-  "description": "Projeto Chapter 2 - Bootcamp Cypress - Turma 6",
+  "name": "agilizei_bootcamp_desafio2",
+  "description": "Desafio Chapter 2 - Bootcamp Cypress - Turma 6",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
@@ -179,13 +179,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/camillamsantos/rwc-cypress.git"
+    "url": "git+https://github.com/camillamsantos/agilizei_bootcamp_desafio2"
   },
   "keywords": [],
   "author": "Camilla Marques dos Santos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/camillamsantos/rwc-cypress/issues"
+    "url": "https://github.com/camillamsantos/agilizei_bootcamp_desafio2/issues"
   },
-  "homepage": "https://github.com/camillamsantos/rwc-cypress#readme"
+  "homepage": "https://github.com/camillamsantos/agilizei_bootcamp_desafio2#readme"
 }
