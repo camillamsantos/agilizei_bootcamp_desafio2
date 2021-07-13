@@ -43,6 +43,7 @@ Projeto desenvolvido para o bootcamp turma 6 agilizei - https://agilizei.com/agi
     - Electron [npm run cy:run:electron]
     - Chrome: [npm run cy:run:chrome]
     - Firefox: [npm run cy:run:firefox]
+    - Edge: [npm run cy:run:edge]
 
 
 Caso deseje visualizar a reprodução dos vídeos após executar os testes em modo headless, basta acessar o diretório cypress/videos. 
