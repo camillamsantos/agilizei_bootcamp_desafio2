@@ -40,7 +40,7 @@ Projeto desenvolvido para o bootcamp turma 6 agilizei - https://agilizei.com/agi
   - Dentro da raiz do projeto, executar o comando [npm install]
   - Executar os comandos a seguir para rodar os testes em modo headless nos navegadores:
   
-    - Electron [npm run cy:run:electron]
+    - Electron: [npm run cy:run:electron]
     - Chrome: [npm run cy:run:chrome]
     - Firefox: [npm run cy:run:firefox]
     - Edge: [npm run cy:run:edge]
